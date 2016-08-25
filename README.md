@@ -11,4 +11,4 @@ sueldo semanal en base a horas trabajadas
 
 ##imagen
 
-![imagen diagrama de flujo](file:///C:/Users/Laboratoria015Le/Downloads/ejerc-3.webp)
+![imagen diagrama de flujo](http://1.1m.yt/BBHFKNR.jpg)
