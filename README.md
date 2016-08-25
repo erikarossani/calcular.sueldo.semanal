@@ -1,1 +1,14 @@
-# calcular.sueldo.semanal
+#sueldo
+##contexto
+sueldo semanal en base a horas trabajadas
+##pseudocódigo
+1. inicio
+2. horasTrabajadas
+3. pagoPorHora
+4. multiplicar sueldo * horas
+5. sueldoSemanal
+6. fin
+
+##imagen
+
+![imagen diagrama de flujo](file:///C:/Users/Laboratoria015Le/Downloads/ejerc-3.webp)
